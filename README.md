@@ -1,4 +1,4 @@
-Ce projet est une application Java complète permettant d'entraîner une Intelligence Artificielle à reconnaître des chiffres écrits à la main (0-9) en utilisant l'algorithme Random Forest de la bibliothèque Weka.
+Ce projet est une application Java complète permettant d'entraîner une Intelligence Artificielle à reconnaître des chiffres écrits à la main (0-9) en utilisant l'algorithme Random Forest de la bibliothèque Weka,dans ce mini projet l'objectif est de reconnaitre les chiffres (3et5).
 Performance du Modèle
 Précision (Accuracy) : 96.68% sur le jeu de test.
 
